@@ -1,0 +1,48 @@
+
+  .bg-dark {
+    background-color:rgb(75,216,75) !important;
+}
+  .home {
+      background-image: url(https://images.pexels.com/photos/162637/watering-watering-can-man-vietnam-162637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+    text-align: center;
+    color: white;
+    padding-bottom: 300px;
+    }
+    .home h1 {
+        font-size: 115px;
+        color:rgb(75,216,75)
+    }
+    .about h2 {
+        font-weight: bold;
+        font-size: 50px;
+        text-align: center;
+        text-decoration: underline;
+        color: rgb(75,216,75);
+    }
+    .moja {
+        display: none;
+    }
+    .mbili {
+        display: none;
+    }
+    .tatu {
+        display: none;
+    }
+    .what h2 {
+        font-weight: bold;
+        font-size: 50px;
+        text-align: center;
+        text-decoration: underline;
+        color: rgb(75,216,75);
+    }
+    .what h3 {
+        color: rgb(75,216,75);
+    }
+    .what h4 {
+        color: rgb(75,216,75);
+    }
+    
