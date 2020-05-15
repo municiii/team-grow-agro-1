@@ -1,6 +1,9 @@
 body {
     margin: 10px;
 }
+p {
+  font-size: 25px;
+}
   .bg-dark {
     background-color:rgb(75,216,75) !important;
 }
@@ -25,6 +28,10 @@ body {
         text-decoration: underline;
         color: rgb(75,216,75);
     }
+    .about {
+      padding-right: 20px;
+      padding-left: 20px;
+    }
     .moja {
         display: none;
     }
@@ -37,6 +44,8 @@ body {
     .what {
         margin-top: 100px;
         margin-bottom: 100px;
+        padding-left: 20px;
+        padding-right: 20px;
     }
     .what h3 {
         color: rgb(75,216,75);
@@ -47,6 +56,7 @@ body {
     .why {
         margin-top: 100px;
         margin-bottom: 100px;
+        padding-left: 30px;
     }
     @import url(https://fonts.googleapis.com/css?family=Bree+Serif);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
