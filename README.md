@@ -33,13 +33,13 @@ to view the page
 
 ## Authors
 
-1..[Alex Zan Bi].(https://github.com/astephbi)-Team Leader
+1..[Alex Zan Bi].(https://github.com/astephbi) -Team Leader
 
-2..[Muisyo Joy].(https://github.com/municiii)-Website
+2..[Muisyo Joy].(https://github.com/municiii) -Website
 
-3..[Steven Kolawole].(https://github.com/stevekola)-AI and design
+3..[Steven Kolawole].(https://github.com/stevekola) -AI and design
 
-4..[Ifedubem Ezike].(https://github.com/dezike14)-UX design
+4..[Ifedubem Ezike].(https://github.com/dezike14) -UX design
 
 
 
